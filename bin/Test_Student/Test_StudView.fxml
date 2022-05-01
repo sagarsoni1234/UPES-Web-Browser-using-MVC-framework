@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane minHeight="1080.0" minWidth="1920.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Test_Student.Test_StudViewController">
+   <children>
+      <WebView fx:id="webView" layoutX="17.0" layoutY="82.0" prefHeight="1025.0" prefWidth="1113.0" />
+      <Label layoutX="251.0" layoutY="448.0" prefHeight="199.0" prefWidth="626.0" text="UPES BROWSER" textFill="#b9afaf" />
+      <TextArea editable="false" layoutX="1145.0" layoutY="104.0" prefHeight="192.0" prefWidth="593.0" text="&#9;1.1 Study Area&#9;Cybercrime is defined as any crime that involves the use of a computer or a network. It's possible that the computer was used to commit a crime or that it was the intended target. Cybercrime can jeopardise a person's security and financial well-being.&#10;When confidential information is intercepted or disclosed, whether lawfully or illegally, there are numerous privacy concerns. Cybercrime is committed by both governmental and non-governmental entities on a global scale, including espionage, financial theft, and other cross-border crimes. Cyberwarfare is a term used to describe cybercrime that crosses international borders and involves the actions of at least one nation-state. Cybercrime, according to Warren Buffet, is the &quot;number one problem with civilization&quot;[5] and &quot;poses genuine risks to humanity.&#10;&#9;1.2 Existing social Problem&#9;The internet has evolved into a parallel form of existence and living. The concept of cybercrime isn't all that unlike from that of traditional crime. Cybercrime can be defined as those species whose genus is traditional crime and in which the computer is either an object or a topic of the criminal activity. Cybercrime encompasses any criminal behavior that makes use of a computer as an instrument, a target, or a means of committing more crimes. Both refer to behavior, whether it is an act or an omission that violates the law and is counterbalanced by a state consequence. Cyber criminals take full advantage of the Internet's anonymity, secrecy, and interconnection, assaulting the very underpinnings of our modern information society. Botnets, computer infections, cyberbullying, cyber stalking, cyber terrorism, cyber pornography, Denial of Service attacks, hacktivism, and identity theft are all examples of cybercrime.&#10;&#9;1.3 Intended technologies&#9;Estonia could establish wide anti-cybercrime capability, pursue legal, regulatory, and organizational agility, and invest in technology experience, skills, and research to prepare for and reduce the impact of emerging technologies on cybercrime. In Europe and beyond, digital systems and information communication technology (ICT) have become crucial in all aspects of economic activity. Many enterprises and society's day-to-day operations today rely on access to the internet and an unbroken flow of information.&#10;&#10;&#10;As a result, cybersecurity incidents, whether deliberate or unintentional, can significantly impair critical services as well as economic and societal activity. Cybercrime is a huge and growing threat to digital systems, as well as the secure operation of digital institutions and economies.&#10;2&#9;Social Technologies&#10;&#9;2.1 Role of Technology &#9;Cyber Crime and Information Technology is an open access, peer-reviewed journal that publishes applied, theoretical, analytical, operational, subjective, and prospective research. The journal assists its readers in developing a solid grasp of cyber security, cybercrime, digital evidence, and law enforcement concerns, all of which are expanding in breadth and urgency as governments throughout the world become more reliant on digital information and networks.&#10;&#9;2.2 Working Principle&#9;We now live in the digital era. The rise of digital technology, as well as the convergence of computing and communication devices, has changed the way we socialize and conduct business. While these advances have been largely favorable, there has been a dark aspect to them as well. Almost every advancement has been accompanied by a corresponding niche to be exploited for illegal objectives; so-called 'cybercrimes,' proving the dictum that crime follows opportunity. Criminals will find methods to abuse new technology in a variety of ways, including fraud, child pornography, stalking, illegal copyright infringement, and computer attacks. All countries have the difficulty of keeping their criminal laws up to date. The problem is worldwide, and there is a lot to be gained from other countries' experiences. This book examines the legal principles that apply to the prosecution of cybercrime in Australia, Canada, the United Kingdom, and the United States, with a focus on Australia, Canada, the United Kingdom, and the United States.&#10;&#9;2.3 Migration strategies&#9;Cyber-pornography refers to internet-based progeny pornography, which frequently involves people under the age of 18. While law enforcement agencies in the United States and Europe have discovered mature individual pornography on the internet to be legal, there is a widely held legal, educational, psychological, and societal agreement that young children should not be involved in the worldwide sex market.&#10;3&#9;Social Outcome&#10;&#9;3.1 Questioners&#9;1.&#9;Do you have an antivirus software installed on your PC / Mac?&#10;2.&#9;How aware are you about cybercrime?&#10;3.&#9;How safe do you feel about your information, when you are online?&#10;4.&#9;Do you feel it is essential to be safe online?&#10;5.&#9;Have you ever lost money due to Cyber Crime?&#10;&#9;3.2 Outcome of Survey&#9;Cybercrime refers to crimes in which a communication channel or device, such as a laptop, desktop, PDA, mobile phones, watches, or vehicles, has been utilized directly or indirectly as a medium. Cyber-attacks are predicted to be one of the top five hazards in the world for the government and corporate sector, according to the report &quot;Global Risks for 2012.&quot; Cybercrime is a type of crime that is difficult to detect and halt after it has occurred, and it has a long-term detrimental impact on victims. With the growing popularity of online banking and online shopping, both of which need sensitive personal and financial data, it's a term we hear a lot in the headlines. Now, in order to defend ourselves against this crime, we must first understand what it is and how it operates against us. This paper provides a brief introduction of cyber criminals and crime, including their evolution, types, and case studies. Types, case study, preventive majors and the department working to combat this crime.&#10;&#9;3.3 Outcome&#9;Individuals can use this worldwide network to socialise, exchange ideas, share information, provide social support, conduct business, direct actions, produce artistic media, play games, engage in political debate, and so on. It can be used for criminal purposes, which is known as cybercrime. Hacking, child pornography, and cyberbullying are just a few examples of cybercrime.Stalking, child grooming, and online fraud, to name a few examples. The Internet's utility has been demonstrated in a variety of ways, which should presumably be sufficient to prevent it from becoming a hotbed of criminal activity and a haven for the malevolent. From white collar employees to terrorists, and from kids to adults, everyone uses computers. The younger generations, who rely heavily on the internet and other online technologies for day-to-day work and leisure, such as information, e-mails, social networking, embanking, e-shopping, web-TV, news, education, home-work research, online gaming, and downloading music, videos, movies and other contents etc.,  are more vulnerable  to  targeted cyber-crime.  The government still has an important role to play,  but  most  of  the  prevention  needs  to  be  done  by  commercial  entities  producing &#10;software and those with the ability to stop fraud. Relying on consumer education programs will only affect a percentage of possible victims.&#10;&#10;&#10;&#10;&#10;SURVEY QUESTIONS&#10;&#10;&#10;" />
+      <Label layoutX="1145.0" layoutY="84.0" prefHeight="25.0" prefWidth="593.0" style="-fx-background-color: pink;" text="Read Instructions Carefully. ">
+         <font>
+            <Font name="Lucida Sans Regular" size="21.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="74.0" fitWidth="112.0" layoutX="1056.0" layoutY="82.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/upes.jpg" />
+         </image>
+      </ImageView>
+      <ProgressBar fx:id="PROGRESSBAR" layoutX="1408.0" layoutY="455.0" prefHeight="23.0" prefWidth="279.0" progress="0.0" style="-fx-background-radius: 50;" />
+      <Label layoutX="1173.0" layoutY="436.0" prefHeight="60.0" prefWidth="227.0" style="-fx-background-radius: 55;" text="Progress Bar:" textFill="#f2efef">
+         <font>
+            <Font name="Comic Sans MS" size="32.0" />
+         </font>
+      </Label>
+      <Button layoutX="1180.0" layoutY="330.0" mnemonicParsing="false" onAction="#Start" prefHeight="74.0" prefWidth="99.0" style="-fx-background-radius: 150; -fx-background-color: green;" text="Start Test" textFill="#f2efef">
+         <font>
+            <Font name="Lucida Sans Regular" size="15.0" />
+         </font>
+      </Button>
+      <Button layoutX="1567.0" layoutY="548.0" mnemonicParsing="false" onAction="#Submit" prefHeight="74.0" prefWidth="99.0" style="-fx-background-radius: 150;" text="SUBMIT">
+         <font>
+            <Font name="Lucida Sans Regular" size="15.0" />
+         </font>
+      </Button>
+      <Separator layoutX="1732.0" layoutY="296.0" orientation="VERTICAL" prefHeight="789.0" prefWidth="9.0" />
+      <Button layoutX="1307.0" layoutY="330.0" mnemonicParsing="false" onAction="#END" prefHeight="74.0" prefWidth="99.0" style="-fx-background-radius: 150; -fx-background-color: red;" text="Stop Test" textFill="#f2efef">
+         <font>
+            <Font name="Lucida Sans Regular" size="15.0" />
+         </font>
+      </Button>
+      <Label layoutX="1442.0" layoutY="337.0" prefHeight="60.0" prefWidth="150.0" style="-fx-background-radius: 55;" text="Time left:" textFill="#f2efef">
+         <font>
+            <Font name="Comic Sans MS" size="32.0" />
+         </font>
+      </Label>
+      <TextField fx:id="timer" editable="false" layoutX="1599.0" layoutY="337.0" prefHeight="60.0" prefWidth="127.0" style="-fx-background-radius: 50;" />
+      <Separator layoutX="1161.0" layoutY="800.0" prefHeight="13.0" prefWidth="388.0" />
+      <ComboBox fx:id="COMBOBOX1" editable="true" layoutX="1357.0" layoutY="506.0" onMouseClicked="#COMBOCLICK1" prefWidth="150.0" promptText="Select Question" />
+      <Label layoutX="1179.0" layoutY="496.0" prefHeight="53.0" prefWidth="164.0" text="Question 1:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Separator layoutX="1161.0" layoutY="485.0" prefHeight="13.0" prefWidth="388.0" />
+      <Separator layoutX="1164.0" layoutY="907.0" prefHeight="13.0" prefWidth="388.0" />
+      <Separator layoutX="1156.0" layoutY="494.0" orientation="VERTICAL" prefHeight="420.0" prefWidth="15.0" />
+      <Separator layoutX="1547.0" layoutY="491.0" orientation="VERTICAL" prefHeight="420.0" prefWidth="9.0" />
+      <ComboBox fx:id="COMBOBOX3" editable="true" layoutX="1357.0" layoutY="605.0" onMouseClicked="#COMBOCLICK3" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1179.0" layoutY="594.0" prefHeight="53.0" prefWidth="164.0" text="Question 3:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="COMBOBOX2" editable="true" layoutX="1357.0" layoutY="552.0" onMouseClicked="#COMBOCLICK2" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1179.0" layoutY="541.0" prefHeight="53.0" prefWidth="164.0" text="Question 2:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Separator layoutX="1161.0" layoutY="543.0" prefHeight="13.0" prefWidth="388.0" />
+      <Separator layoutX="1162.0" layoutY="588.0" prefHeight="13.0" prefWidth="388.0" />
+      <Separator layoutX="1161.0" layoutY="641.0" prefHeight="13.0" prefWidth="388.0" />
+      <ComboBox fx:id="COMBOBOX4" editable="true" layoutX="1359.0" layoutY="658.0" onMouseClicked="#COMBOCLICK4" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1181.0" layoutY="647.0" prefHeight="53.0" prefWidth="164.0" text="Question 4:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Separator layoutX="1163.0" layoutY="694.0" prefHeight="13.0" prefWidth="388.0" />
+      <ComboBox fx:id="COMBOBOX5" editable="true" layoutX="1358.0" layoutY="711.0" onMouseClicked="#COMBOCLICK5" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1180.0" layoutY="700.0" prefHeight="53.0" prefWidth="164.0" text="Question 5:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Separator layoutX="1162.0" layoutY="747.0" prefHeight="13.0" prefWidth="388.0" />
+      <ComboBox fx:id="COMBOBOX6" editable="true" layoutX="1357.0" layoutY="764.0" onMouseClicked="#COMBOCLICK6" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1179.0" layoutY="753.0" prefHeight="53.0" prefWidth="164.0" text="Question 6:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="COMBOBOX7" editable="true" layoutX="1357.0" layoutY="811.0" onMouseClicked="#COMBOCLICK7" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1179.0" layoutY="800.0" prefHeight="53.0" prefWidth="164.0" text="Question 7:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Separator layoutX="1161.0" layoutY="847.0" prefHeight="13.0" prefWidth="388.0" />
+      <ComboBox fx:id="COMBOBOX8" editable="true" layoutX="1357.0" layoutY="864.0" onMouseClicked="#COMBOCLICK8" prefWidth="150.0" promptText="Select Answer" style="-fx-background-radius: 0;" />
+      <Label layoutX="1179.0" layoutY="853.0" prefHeight="53.0" prefWidth="164.0" text="Question 8:" textFill="#ebe0e0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button layoutX="1667.0" layoutY="345.0" mnemonicParsing="false" onAction="#timer" prefHeight="39.0" prefWidth="53.0" style="-fx-background-radius: 55; -fx-background-color: red;" text="go" />
+   </children>
+</AnchorPane>

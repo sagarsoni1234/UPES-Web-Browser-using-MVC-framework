@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+
+
+<AnchorPane minHeight="800.0" minWidth="800.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="Search.SearchViewController">
+   <children>
+      <Label alignment="CENTER" layoutX="-3.0" layoutY="-1.0" prefHeight="43.0" prefWidth="807.0" style="-fx-background-color: #C0C0C0;" text="UPES Browser">
+         <font>
+            <Font name="Comic Sans MS" size="27.0" />
+         </font>
+      </Label>
+      <Label layoutY="31.0" prefHeight="771.0" prefWidth="43.0" style="-fx-background-color: #C0C0C0;" />
+      <Button layoutX="754.0" layoutY="-2.0" mnemonicParsing="false" onAction="#DoExit" prefHeight="43.0" prefWidth="50.0" style="-fx-background-color: RED; -fx-background-radius: 10;" text="X" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="45.0" fitWidth="43.0" layoutY="42.0" onMouseClicked="#BB" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/bb_logo.png" />
+         </image>
+         <viewport>
+            <Rectangle2D />
+         </viewport>
+      </ImageView>
+      <Label alignment="CENTER" layoutX="4.0" layoutY="85.0" prefHeight="21.0" prefWidth="25.0" text="BB">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="45.0" fitWidth="43.0" layoutY="134.0" onMouseClicked="#SAP" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/SAP_FINAL_LOGO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="43.0" layoutY="218.0" onMouseClicked="#LIB" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/library%20logo.png" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" layoutY="260.0" prefHeight="21.0" prefWidth="43.0" text="Lib.">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="45.0" fitWidth="43.0" layoutY="302.0" onMouseClicked="#WEB" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/upes_logo.jpg" />
+         </image>
+      </ImageView>
+      <Separator layoutX="40.0" layoutY="44.0" orientation="VERTICAL" prefHeight="755.0" prefWidth="7.0" style="-fx-background-color: black;" />
+      <Separator layoutX="40.0" layoutY="43.0" prefHeight="6.0" prefWidth="764.0" style="-fx-background-color: black;" />
+      <ImageView fitHeight="45.0" fitWidth="37.0" layoutY="386.0" onMouseClicked="#TEST" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Downloads/1961524.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="29.0" layoutY="5.0" mnemonicParsing="false" onAction="#GOback" prefHeight="31.0" prefWidth="75.0" style="-fx-background-radius: 50;" text="←">
+         <font>
+            <Font name="Gill Sans MT Ext Condensed Bold" size="14.0" />
+         </font>
+      </Button>
+      <WebView fx:id="FinalWebEngine" layoutX="47.0" layoutY="46.0" prefHeight="755.0" prefWidth="756.0" />
+   </children>
+</AnchorPane>
